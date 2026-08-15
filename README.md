@@ -15,7 +15,7 @@ Kani waa nidaam yar oo casri ah oo loogu talagalay Diiwaan-gelinta (Register) iy
   * `createContext` & `useContext`: Loogu talagalay in xogta isticmaalaha laga maamulo meel dhexe (State Management).
   * `useRef`: Si toos ah loogu shido (focus) meesha Username-ka marka uu isbeddelo form-ku.
   * `useEffect`: Si loo xakameeyo falka auto-focus-ka.
-* **Styling:** Pure JavaScript CSS Objects (Nadiif ah oo aan u baahnayn wax qalab dheeri ah).
+* **Styling:** Pure JavaScript CSS Objects (Nadiif ah oo aan u baahnayn wax qalab dheeri ah hadii aad u bahantahay fahfahin dherad ah ila so xirir!).
 
 ## 💻 Sida Loo Daaro (Quick Start)
 
